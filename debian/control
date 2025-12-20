@@ -1,7 +1,7 @@
 Source: xlibre
 Section: x11
 Priority: optional
-Maintainer: apebl <a@pebl.cc>
+Maintainer: NexusSfan <nexussfan@duck.com>
 Rules-Requires-Root: no
 Standards-Version: 4.6.1
 Build-Depends:
