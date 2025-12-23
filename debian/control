@@ -8,8 +8,8 @@ Build-Depends:
  debhelper-compat (= 13),
  po-debconf,
  asciidoc,
-Vcs-Git: https://github.com/xlibre-deb/xlibre.git
-Vcs-Browser: https://github.com/xlibre-deb/xlibre
+Vcs-Git: https://github.com/xlibre-debian/xlibre.git
+Vcs-Browser: https://github.com/xlibre-debian/xlibre
 Homepage: https://github.com/X11Libre
 
 Package: xlibre-x11-common
