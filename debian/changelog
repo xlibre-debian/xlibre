@@ -1,3 +1,9 @@
+xlibre (1:7.8+5) unstable; urgency=low
+
+  * Make the init file executable so it runs properly.
+
+ -- NexusSfan <nexussfan@duck.com>  Sun, 12 Apr 2026 07:05:03 -0700
+
 xlibre (1:7.8+4) unstable; urgency=medium
 
   * control: Remove xorg-video-abi-25-dummy from xlibre Recommends
